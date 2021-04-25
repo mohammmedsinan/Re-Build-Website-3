@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-app-re-build/static/css/main.83be29a3.chunk.css",
+    "main.js": "/react-app-re-build/static/js/main.fd4b8f81.chunk.js",
+    "main.js.map": "/react-app-re-build/static/js/main.fd4b8f81.chunk.js.map",
+    "runtime-main.js": "/react-app-re-build/static/js/runtime-main.27ab4610.js",
+    "runtime-main.js.map": "/react-app-re-build/static/js/runtime-main.27ab4610.js.map",
+    "static/js/2.e9117873.chunk.js": "/react-app-re-build/static/js/2.e9117873.chunk.js",
+    "static/js/2.e9117873.chunk.js.map": "/react-app-re-build/static/js/2.e9117873.chunk.js.map",
+    "index.html": "/react-app-re-build/index.html",
+    "static/css/main.83be29a3.chunk.css.map": "/react-app-re-build/static/css/main.83be29a3.chunk.css.map",
+    "static/js/2.e9117873.chunk.js.LICENSE.txt": "/react-app-re-build/static/js/2.e9117873.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-app-re-build/static/media/background2.b50cc4fd.jpg",
+    "static/media/img-4-1.2d03ef73.jpg": "/react-app-re-build/static/media/img-4-1.2d03ef73.jpg",
+    "static/media/img-4-2.37362251.jpg": "/react-app-re-build/static/media/img-4-2.37362251.jpg",
+    "static/media/img-4-3.5fa3cbda.jpg": "/react-app-re-build/static/media/img-4-3.5fa3cbda.jpg",
+    "static/media/imgOfwallpaper1.1014a692.png": "/react-app-re-build/static/media/imgOfwallpaper1.1014a692.png",
+    "static/media/imgOfwallpaper2.104ef2c6.png": "/react-app-re-build/static/media/imgOfwallpaper2.104ef2c6.png",
+    "static/media/imgOfwallpaper3.8a2caa7a.png": "/react-app-re-build/static/media/imgOfwallpaper3.8a2caa7a.png",
+    "static/media/imgOfwallpaper4.f197e5ef.png": "/react-app-re-build/static/media/imgOfwallpaper4.f197e5ef.png",
+    "static/media/logo-1.78fc8cf7.bin": "/react-app-re-build/static/media/logo-1.78fc8cf7.bin",
+    "static/media/logo-2.b731948d.png": "/react-app-re-build/static/media/logo-2.b731948d.png",
+    "static/media/logo-3.0cae4906.png": "/react-app-re-build/static/media/logo-3.0cae4906.png",
+    "static/media/logo-4.8845d8fb.png": "/react-app-re-build/static/media/logo-4.8845d8fb.png",
+    "static/media/main.a5aa3ace.svg": "/react-app-re-build/static/media/main.a5aa3ace.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ab4610.js",
+    "static/js/2.e9117873.chunk.js",
+    "static/css/main.83be29a3.chunk.css",
+    "static/js/main.fd4b8f81.chunk.js"
+  ]
+}
